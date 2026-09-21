@@ -1,6 +1,6 @@
 Markdown
 
-# Crypto currency Market Intelligence & Performance Analysis Report
+# Crypto currency Market Intelligence & Performance Analysis
 
 4,150개 이상의 암호화폐 글로벌 시장 데이터를 바탕으로 수익률 분포, 자본 집중도, 세그먼트별 성과 및 이상 유동성을 분석한 종합 마켓 인텔리전스 시스템
 
